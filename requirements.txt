@@ -1,0 +1,10 @@
+# torch
+# torchvision
+tensorboard
+opencv-contrib-python
+# pydensecrf
+scikit-image
+scikit-learn
+matplotlib
+pandas
+tqdm

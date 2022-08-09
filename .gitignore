@@ -1,0 +1,10 @@
+q.log/
+__pycache__
+*/__pycache__
+bash_scripts/
+.no_gpu*
+.exp*
+temp_data
+runs/
+jupyter-notebooks/
+Result/
